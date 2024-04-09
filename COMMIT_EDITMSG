@@ -1,0 +1,14 @@
+# Cambio 1000
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch and 'origin/main' have diverged,
+# and have 2 and 17 different commits each, respectively.
+#
+# Changes to be committed:
+#	modified:   e-commerceStore/src/components/Footer/Footer.css
+#	modified:   e-commerceStore/src/components/Footer/Footer.jsx
+#	modified:   e-commerceStore/src/components/Item.jsx
+#	modified:   e-commerceStore/src/firebase
+#
